@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1618273581,
+      "datetime": 1618303394,
       "filename": "lineage_icosa-foster_tab-eng.daviiid99.zip",
       "id": "000000",
       "romtype": "unofficial",
-      "size": 638792499,
-      "url":"https://github.com/daviiid99/Switch-OTA-Updates/releases/download/20210413/lineage_icosa-ota-eng.daviiid99.zip",
+      "size": 641200000 ,
+      "url":"https://github.com/daviiid99/LineageOS-Switch-T210-UNOFFICIAL/releases/download/20210413.2/lineage_foster_tab-ota-eng.daviiid99.zip",
       "version": "17.1"
        }
   ]
