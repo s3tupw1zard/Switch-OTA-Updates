@@ -9,20 +9,29 @@
       "url":"https://github.com/daviiid99/Switch-OTA-Updates/releases/download/20210413/lineage_icosa-ota-eng.daviiid99.zip",
       "version": "17.1"
     }
-    
+  ]
+}
+
+{
+  "response": [
     {
       "datetime": 1618273581,
-      "filename": "lineage_foster-ota-eng.daviiid99.zip",
+      "filename": "lineage_foster_tab-ota-eng.daviiid99.zip",
       "id": "000000",
       "romtype": "unofficial",
       "size": 638792499,
       "url":"https://github.com/daviiid99/Switch-OTA-Updates/releases/download/20210413/lineage_icosa-ota-eng.daviiid99.zip",
       "version": "17.1"
     }
-    
+  ]
+}
+
+
+{
+  "response": [
     {
       "datetime": 1618273581,
-      "filename": "lineage_foster_tab-ota-eng.daviiid99.zip",
+      "filename": "lineage_foster-ota-eng.daviiid99.zip",
       "id": "000000",
       "romtype": "unofficial",
       "size": 638792499,
