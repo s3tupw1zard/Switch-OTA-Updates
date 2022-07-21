@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1624075200,
-      "filename": "lineage_icosa_tv_sr-ota-eng.daviiid99.zip",
-      "id": "000000",
+      "filename": "lineage_icosa_tv_sr-ota-eng.daviiid99-temp.zip",
+      "id": "0000001",
       "romtype": "unofficial",
       "size": 538500000,
-      "url":"https://github.com/daviiid99/Switch-OTA-Updates/releases/download/OTA/lineage_foster-ota-eng.daviiid99.zip",
+      "url":"https://github.com/daviiid99/Switch-OTA-Updates/releases/download/OTA/lineage_foster-ota-eng.daviiid99-temp.zip",
       "version": "18.1"
        }
   ]
